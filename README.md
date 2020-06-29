@@ -1,8 +1,9 @@
 ## Welcome to My GitHub Portfolio
 
-You can find my [posts](https://github.com/DorianLockhart/DorianLockhart.github.io/tree/master/_posts) here. Hope you enjoy!
+My name is Dorian Lockhart and I am a young IT professional. I graduated college from Norwich University in the Corps
+of Cadets back in 2018. I have a Bachelor's Degree in Computer Security & Information Assurance. I am looking to start my career in cyber-security. The purpose of this site is to show the world some of the cool tech-related projects I do in my free time! This is also my very first technical write-up website! Feel free to try some of them out as they are really entertaining and sometimes useful! I particularly think you all will like Pi-Hole. :smile:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find my [posts](https://github.com/DorianLockhart/DorianLockhart.github.io/tree/master/_posts) here. Hope you enjoy!
 
 ### Markdown
 
