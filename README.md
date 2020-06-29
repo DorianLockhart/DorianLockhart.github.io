@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Portfolio
 
-You can find my posts here: [editor on GitHub](https://github.com/DorianLockhart/DorianLockhart.github.io/_posts) to maintain and preview the content for your website in Markdown files.
+You can find my [posts](https://github.com/DorianLockhart/DorianLockhart.github.io/_posts/) here. Hope you enjoy!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
