@@ -12,3 +12,4 @@ email: `lockhart.dorian@protonmail.com`
 
 [LinkedIn Profile](https://www.linkedin.com/in/dorian-lockhart-4a2922a4/)
 
+![Image](https://Dorianlockhart.github.io/img/0.jpeg)
